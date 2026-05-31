@@ -12,24 +12,25 @@
 
 
 def main():
-    # Function to print out my initials in large letters
+  
+  # Function to print out my initials in large letters
 
-    print()
-    print("...JAB")
-    print()
+  print()
+  print("...JAB")
+  print()
 
-    print("...JJJJJJJJJJJJ...  ........AA........  ...BBBBBBBBBB.....  ")
-    print("............JJ....  .......AAAA.......  ...BB.......BB....  ")
-    print("............JJ....  ......AA..AA......  ...BB........BB...  ")
-    print("............JJ....  .....AA....AA.....  ...BB.......BB....  ")
-    print("............JJ....  ....AA......AA....  ...BBBBBBBBBB.....  ")
-    print("......JJ....JJ....  ...AAAAAAAAAAAA...  ...BB.......BB....  ")
-    print("......JJ....JJ....  ...AA........AA...  ...BB........BB...  ")
-    print("......JJ....JJ....  ...AA........AA...  ...BB.......BB....  ")
-    print(".......JJJJJJ.....**...AA........AA...**...BBBBBBBBBB.....**")
-    print(".........JJ.......**...AA........AA...**...BBBBBBBBB......**")
+  print("...JJJJJJJJJJJJ...  ........AA........  ...BBBBBBBBBB.....  ")
+  print("............JJ....  .......AAAA.......  ...BB.......BB....  ")
+  print("............JJ....  ......AA..AA......  ...BB........BB...  ")
+  print("............JJ....  .....AA....AA.....  ...BB.......BB....  ")
+  print("............JJ....  ....AA......AA....  ...BBBBBBBBBB.....  ")
+  print("......JJ....JJ....  ...AAAAAAAAAAAA...  ...BB.......BB....  ")
+  print("......JJ....JJ....  ...AA........AA...  ...BB........BB...  ")
+  print("......JJ....JJ....  ...AA........AA...  ...BB.......BB....  ")
+  print(".......JJJJJJ.....**...AA........AA...**...BBBBBBBBBB.....**")
+  print(".........JJ.......**...AA........AA...**...BBBBBBBBB......**")
 
-    print()
+  print()
 
 
 main()
